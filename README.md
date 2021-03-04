@@ -1,4 +1,4 @@
-:link: [Live Demo](https://pvk13797.github.io/Angular-Reactive-Form/index.html)
+:link: [Live Demo](https://pvk13797.github.io/Angular-Reactive-Form/)
 
 # AngularReactiveForm
 
